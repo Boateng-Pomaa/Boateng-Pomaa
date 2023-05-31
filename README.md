@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Boateng-Pomaa
 - 👀 I’m interested in Android(Kotlin) and Desktop(Visual Basic) development 
-- 🌱 I’m currently learning Kotlin programming language
+- 🌱 I’m a Kotlin developer
 - 💞️ I’m looking to collaborate on android projects
-- 📫 How to reach me on lindapomaa27@gmail.com
-- Im currently learning Javascript
+- 📫 Reach me on lindapomaa27@gmail.com
 - I am a Nodejs developer
 
 <!---
